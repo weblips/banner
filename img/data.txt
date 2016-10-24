@@ -1,0 +1,2 @@
+<?php $array_ex_data_txt = 
+array('test' => 2);
